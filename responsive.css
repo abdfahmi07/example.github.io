@@ -56,3 +56,9 @@
     line-height: 20px;
   }
 }
+
+@media all and (min-width: 1240px) {
+  .menu-icon {
+    display: none !important;
+  }
+}
