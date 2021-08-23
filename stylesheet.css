@@ -123,7 +123,7 @@ header {
   float: right;
   font-size: 25px;
   padding: 21px 0px;
-  display: none !important;
+  display: none;
 }
 
 .lesson-wrapper {
@@ -155,7 +155,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 74px;
+  top: 75px;
   width: 100%;
   color: white;
 }
