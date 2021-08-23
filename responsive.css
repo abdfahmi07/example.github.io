@@ -57,7 +57,7 @@
   }
 }
 
-@media all and (min-width: 1240px) {
+@media all and (min-width: 671px) {
   .menu-icon {
     display: none !important;
   }
